@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Blazor project\\vinayagar\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\vinayagar.bundle.scp.css",
+      "PackagePath": "staticwebassets\\vinayagar.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Blazor project\\vinayagar\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Blazor project\\vinayagar\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Blazor project\\vinayagar\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Blazor project\\vinayagar\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.vinayagar.props",
+      "PackagePath": "build\\vinayagar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.vinayagar.props",
+      "PackagePath": "buildMultiTargeting\\vinayagar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.vinayagar.props",
+      "PackagePath": "buildTransitive\\vinayagar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.vinayagar.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
