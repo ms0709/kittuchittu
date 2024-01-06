@@ -1,6 +1,27 @@
 ﻿@page "/kittuChittu"
+@rendermode InteractiveServer
+@inject NavigationManager nm
 <h3>KittuChittu</h3>
-
+<hr/>
+<button class="btn btn-success" @onclick="Navigation">Kittu Chittu</button>
+<button class="btn btn-danger" @onclick="weatherNavigation">Weather</button>
+<button class="btn btn-warning" @onclick="CounterNavigation">Counter</button>
 @code {
 
-}
+    void Navigation()
+    {
+        nm.NavigateTo("/KittuChittu");
+     
+    }
+    void weatherNavigation()
+    {
+
+        nm.NavigateTo("/weather");
+    }
+    void CounterNavigation()
+    {
+
+        nm.NavigateTo("/Counter");
+    }
+} 
+
